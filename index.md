@@ -1,7 +1,7 @@
 # [People](people.md)
 
-# Publications
+# [Publications](publications.md)
 
 
 
-### Made with Markdown
+

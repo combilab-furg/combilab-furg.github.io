@@ -1,6 +1,7 @@
 # Here we list our publications
 
-* [2020](publication/2020.md)
+### [2020](publication/2020.md)
+
 * 2019
 * 2018
 * 2017

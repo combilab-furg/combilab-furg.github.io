@@ -1,4 +1,4 @@
-# [People](people.html)
+# [People](people.md)
 
 # Publications
 

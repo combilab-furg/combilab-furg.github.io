@@ -2,6 +2,6 @@
 
 # [Publications](publications.md)
 
-
+# [Projects](projects.md)
 
 

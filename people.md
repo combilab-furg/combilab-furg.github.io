@@ -1,11 +1,19 @@
-## Pesquisadores
+## Researchers
 * Karina Machado    [CV lattes](http://lattes.cnpq.br/3528633359332021)
 * Adriano V. Werhli [CV lattes](http://lattes.cnpq.br/4393367734853964)
 
 ---
 
-## Alunos de Doutorado
+## Doctorate students
 
-## Alunos de Mestrado
+---
 
-## Alunos de IC
+## Master students
+
+---
+
+## Undergraduate students
+
+---
+
+## [Alumni](alumni.md)

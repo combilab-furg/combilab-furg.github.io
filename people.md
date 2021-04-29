@@ -17,3 +17,5 @@
 ---
 
 ## [Alumni](alumni.md)
+
+[🏠 Home](index.md)

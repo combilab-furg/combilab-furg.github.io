@@ -17,8 +17,8 @@
 
 
 ## Undergraduate students
-* **Gabriela ** 
-* **Wilgnne ** 
+* **Gabriela** 
+* **Wilgnne** 
 * **Yago Paes** 
 
 ## [Alumni](alumni.md)

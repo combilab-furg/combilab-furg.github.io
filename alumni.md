@@ -3,6 +3,7 @@
 ## Doctorate:
 
 * Joao Luis Rheingantz Scaini (Doutorado em Ciências da Saúde - FURG) [CV Lattes](http://lattes.cnpq.br/7817834366362394)
+* Bruno Rodrigues de Oliveira (Doutorado em Ciências Fisiológicas - FURG) [CV Lattes](http://lattes.cnpq.br/7462705379815655)
 * Mariana Recamonde Mendoza (Doutorado em Computação - UFRGS) [CV Lattes](http://lattes.cnpq.br/7829435808451741)
 * Lande Vieira da Silva Júnior (Doutorado em Ciências da Saúde - FURG) [CV Lattes](http://lattes.cnpq.br/0259272905855465)
  

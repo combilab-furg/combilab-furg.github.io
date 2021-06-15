@@ -13,7 +13,7 @@
 ## Master students
 
 * **Maurício Balboni**  ([PPGCOMP](http://www.ppgcomp.c3.furg.br/)) [CV lattes](http://lattes.cnpq.br/3609550361656485)
-* **Iago Prina**  ([PPGCS](https://ppgcs.furg.br/) [CV lattes])(http://lattes.cnpq.br/1636273127767712) 
+* **Iago Prina**  ([PPGCS](https://ppgcs.furg.br/)) [CV lattes])(http://lattes.cnpq.br/1636273127767712) 
 
 
 ## Undergraduate students

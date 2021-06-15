@@ -2,21 +2,21 @@
 
 ## Doctorate:
 
+* João Luis Scaini  
 * Mariana Recamonde (Doutorado em Computação - UFRGS) [CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4237640J6)
 * Lande Vieira da Silva Júnior [CV Lattes](http://lattes.cnpq.br/0259272905855465)
  
 
 ## M.Sc.:
 
+* Alex Camargo (Mestrado em Engenharia de Computação - FURG) [CV Lattes](http://lattes.cnpq.br/9300938195284380)
 * Nilzair Barreto (Mestrado em Modelagem Computacional - FURG) [CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4277898P5)
-* Nubia Prates (Mestrado em Modelagem Computacional - FURG) [CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4484085T3)
 * Thyago Salvá (Mestrado em Engenharia da Computação - FURG) [CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4461533H8)
-* Rafael Castro Couto (Mestrado em Engenharia da Computação - FURG) [CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4310348T0)
 * Caroline Tomasini (Mestrado em Engenharia da Computação - FURG) [CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4403516A7)
 * Vinicius Seus (Mestrado em Engenharia da Computação - FURG) [CV Lattes](http://lattes.cnpq.br/2593872322877238)
-* Alex Camargo (Mestrado em Engenharia de Computação - FURG) [CV Lattes](http://lattes.cnpq.br/9300938195284380)
 * Roger Sá da Silva (Mestrado em Engenharia da Computação - FURG) [CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4448784A1)
- 
+* Nubia Prates (Mestrado em Modelagem Computacional - FURG) [CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4484085T3)
+* Rafael Castro Couto (Mestrado em Engenharia da Computação - FURG) [CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4310348T0) 
 
 ## Undergraduate
 

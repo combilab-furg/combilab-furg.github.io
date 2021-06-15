@@ -22,7 +22,7 @@
 * **Gabriela Faria de Oliveira**  [CV lattes](http://lattes.cnpq.br/3508668748851025)
 * **Wilgnne Khawan Barbosa Alencar**   [CV lattes](http://lattes.cnpq.br/0160846233867031)
 * **Yago Mendes Paes**  [CV lattes](http://lattes.cnpq.br/9750389845894786)
-* **Fabiano Mendonça ** 
+* **Fabiano Mendonça** 
 
 ## [Alumni](alumni.md)
 

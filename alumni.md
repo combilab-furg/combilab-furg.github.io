@@ -2,9 +2,9 @@
 
 ## Doctorate:
 
-* João Luis Scaini  
-* Mariana Recamonde (Doutorado em Computação - UFRGS) [CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4237640J6)
-* Lande Vieira da Silva Júnior [CV Lattes](http://lattes.cnpq.br/0259272905855465)
+* Joao Luis Rheingantz Scaini (Doutorado em Ciências da Saúde - FURG) [CV Lattes](http://lattes.cnpq.br/7817834366362394)
+* Mariana Recamonde Mendoza (Doutorado em Computação - UFRGS) [CV Lattes](http://lattes.cnpq.br/7829435808451741)
+* Lande Vieira da Silva Júnior (Doutorado em Ciências da Saúde - FURG) [CV Lattes](http://lattes.cnpq.br/0259272905855465)
  
 
 ## M.Sc.:
@@ -17,7 +17,7 @@
 * Wolmer Dias Quaresma Junior (Mestrado em Engenharia de Computação - FURG) [CV Lattes](http://lattes.cnpq.br/0057825606813032)
 * Alex Camargo (Mestrado em Engenharia de Computação - FURG) [CV Lattes](http://lattes.cnpq.br/9300938195284380)
 * Vinicius Seus (Mestrado em Engenharia da Computação - FURG) [CV Lattes](http://lattes.cnpq.br/2593872322877238)
-* João Luís Rheingantz Scaini (Mestrado em Ciências da Saúde - FURG) [CV Lattes]()
+* João Luís Rheingantz Scaini (Mestrado em Ciências da Saúde - FURG) [CV Lattes](http://lattes.cnpq.br/7817834366362394)
 * Nilzair Barreto (Mestrado em Modelagem Computacional - FURG) [CV Lattes](http://lattes.cnpq.br/3104963450786299)
 * Thyago Salvá (Mestrado em Engenharia da Computação - FURG) [CV Lattes](http://lattes.cnpq.br/1421055344988862)
 * Pablo Werlang (Mestrado em Modelagem Computacional - FURG) [CV Lattes](http://lattes.cnpq.br/6490709711099792) 
@@ -44,3 +44,4 @@
 * Giovani Perrazo (Graduado em Engenharia de Computação - FURG) 
 * Erick Luiz F. Lopes (Graduando em Sistemas de Informação - FURG) [CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8106340P7)
 * Jorge Gomes (Graduando em Sistemas de Informação - FURG) [CV Lattes](http://lattes.cnpq.br/1369545383621093)
+* Mariana Recamonde Mendoza (Graduada em Engenharia de Computação - FURG) [CV Lattes](http://lattes.cnpq.br/7829435808451741)

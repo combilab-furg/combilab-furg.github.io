@@ -2,8 +2,9 @@
 
 <br />
 <br />
+
 | Year | 
-| ---- | 
+| --- | 
 | [**2021**](publications/2021.md)| 
 | [**2020**](publications/2020.md)| 
 | [**2019**](publications/2019.md)| 

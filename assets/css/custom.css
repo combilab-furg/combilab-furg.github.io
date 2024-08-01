@@ -1,0 +1,12 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Lato:wght@400;700&display=swap');
+
+/* Apply Google Font to Titles */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Apply Google Font to Menus */
+nav, .nav, .menu {
+    font-family: 'Lato', sans-serif;
+}

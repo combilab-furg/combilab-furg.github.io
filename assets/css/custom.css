@@ -20,3 +20,16 @@ nav, .site-nav, .site-nav a, .site-nav ul, .site-nav li {
 code, pre {
     font-family: 'Courier New', monospace;
 }
+
+/* Customize Navigation Bar */
+.site-nav {
+    background-color: #333; /* Change this to your desired color */
+}
+
+.site-nav a {
+    color: #fff; /* Change the text color */
+}
+
+.site-nav a:hover {
+    color: #ddd; /* Change the hover text color */
+}

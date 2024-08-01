@@ -1,4 +1,8 @@
-theme: jekyll-theme-architect
 title: Combi-Lab
-description: [Computational Biology Laboratory - FURG]
-show_downloads: false
+description: "Bioinformatics and Computational Biology Lab"
+theme: jekyll-theme-cayman
+
+#theme: jekyll-theme-architect
+#title: Combi-Lab
+#description: [Computational Biology Laboratory - FURG]
+#show_downloads: false

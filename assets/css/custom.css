@@ -1,16 +1,22 @@
-/* Import Google Fonts */
+* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Lato:wght@400;700&display=swap');
 
-/* Apply Google Font to Titles */
+/* Apply Google Fonts to All Text */
+body, p, a, li, h1, h2, h3, h4, h5, h6, blockquote, code, pre {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Specific Font for Headers */
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Roboto', sans-serif;
 }
 
-/* Apply Google Font to Menus */
-nav, .nav, .menu {
+/* Specific Font for Navigation and Menus */
+nav, .site-nav, .site-nav a, .site-nav ul, .site-nav li {
     font-family: 'Lato', sans-serif;
 }
 
-/* Apply Google Font to Navigation Menus */
-nav, .site-nav, .site-nav a, .site-nav ul, .site-nav li {
-    font-family: 'Lato', sans-serif;
+/* Specific Font for Code Blocks */
+code, pre {
+    font-family: 'Courier New', monospace;
+}

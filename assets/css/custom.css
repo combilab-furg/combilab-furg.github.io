@@ -10,3 +10,7 @@ h1, h2, h3, h4, h5, h6 {
 nav, .nav, .menu {
     font-family: 'Lato', sans-serif;
 }
+
+/* Apply Google Font to Navigation Menus */
+nav, .site-nav, .site-nav a, .site-nav ul, .site-nav li {
+    font-family: 'Lato', sans-serif;

@@ -1,0 +1,50 @@
+[
+    {
+      "title": "Automatic design of decision-tree induction algorithms tailored to flexible-receptor docking data",
+      "authors": ["Barros, R. C.", "Winck, A. T.", "Machado, K. S.", "Basgalupp, M. P.", "Carvalho, A. C. P. L. F.", "Ruiz, D. D.", "Norberto De Souza, O."],
+      "journal": "BMC Bioinformatics",
+      "volume": 13,
+      "pages": "310-325",
+      "year": 2012,
+      "doi": "http://dx.doi.org/10.1186/1471-2105-13-310"
+    },
+    {
+      "title": "A Comparative Analysis of Public Ligand Databases Based on Molecular Descriptors",
+      "authors": ["Winck, A. T.", "Quevedo, C. V.", "Machado, K. S.", "Norberto De Souza, O.", "Ruiz, D. D. A."],
+      "conference": "Brazilian Symposium on Bioinformatics",
+      "location": "Campo Grande",
+      "series": "LNBI-LNCS. Advances in Bioinformatics and Computational Biology",
+      "publisher": "Springer-Verlag",
+      "volume": 7409,
+      "pages": "156-167",
+      "year": 2012,
+      "link": "https://www.researchgate.net/publication/295505545_A_Comparative_Analysis_of_Public_Ligand_Databases_Based_on_Molecular_Descriptors"
+    },
+    {
+      "title": "Application Of Data Mining To Select Promising Compounds Based on Molecular Descriptors",
+      "authors": ["Perazzo, G. X.", "Winck, A. T.", "Machado, K. S."],
+      "conference": "8th International Conference of the Brazilian Association for Bioinformatics and Computational Biology",
+      "location": "Campinhas-SP",
+      "proceeding": "X-Meeting 2012",
+      "year": 2012
+    },
+    {
+      "title": "Comparing the reconstruction of regulatory pathways with distinct Bayesian networks inference methods",
+      "authors": ["WERHLI, A. V."],
+      "journal": "BMC Genomics",
+      "volume": 13,
+      "pages": "S2",
+      "year": 2012,
+      "doi": "http://dx.doi.org/10.1186/1471-2164-13-S5-S2"
+    },
+    {
+      "title": "An epsilon-greedy mutation operator based on prior knowledge for GA convergence and accuracy improvement: an application to networks inference",
+      "authors": ["Mendoza, M. R.", "WERHLI, A. V.", "BAZZAN, A. L. C."],
+      "conference": "Simpósio Brasileiro de Redes Neurais",
+      "location": "Curitiba",
+      "proceeding": "Proc. of the SBRN 2012",
+      "year": 2012,
+      "doi": "https://ieeexplore.ieee.org/document/6374826"
+    }
+  ]
+  

@@ -1,0 +1,60 @@
+[
+    {
+      "title": "KORP-PL: a coarse-grained knowledge-based scoring function for protein-ligand interactions",
+      "authors": ["KADUKOVA, M.", "DOS SANTOS MACHADO, KARINA", "CHACON, P.", "GRUDININ, S."],
+      "journal": "BIOINFORMATICS",
+      "volume": 1,
+      "pages": "1-8",
+      "year": 2020,
+      "doi": "http://dx.doi.org/10.1093/bioinformatics/btaa748"
+    },
+    {
+      "title": "In Vitro Effects of 2-{4-[Methylthio(methylsulfonyl)]phenyl}-3-substitutedthiazolidin-4-ones on the Acetylcholinesterase Activity in Rat Brain and Lymphocytes: Isoform Selectivity, Kinetic Analysis, and Molecular Docking",
+      "authors": ["DA SILVA, DANIEL SCHUCH", "SOARES, MAYARA SANDRIELLY PEREIRA", "MARTINI, FRANCIELE", "PESARICO, ANA PAULA", "DE MATTOS, BRUNA DA SILVEIRA", "DE SOUZA, ANITA AVILA", "DA SILVA, CESAR EMILIANO HOFFMAN", "SCAINI, JOÃO LUIS RHEINGANTZ", "MACHADO, KARINA DOS SANTOS", "WAYNE NOGUEIRA, CRISTINA", "SPANEVELLO, ROSELIA MARIA", "CUNICO, WILSON"],
+      "journal": "NEUROCHEMICAL RESEARCH",
+      "volume": 45,
+      "pages": "241-253",
+      "year": 2020,
+      "doi": "http://dx.doi.org/10.1007/s11064-019-02929-8"
+    },
+    {
+      "title": "Graphene oxide and GST-omega enzyme: An interaction that affects arsenic metabolism in the shrimp Litopenaeus vannamei",
+      "authors": ["JOSENDE, MARCELO ESTRELLA", "NUNES, SILVANA MANSKE", "DE OLIVEIRA LOBATO, ROBERTA", "GONZÁLEZ-DURRUTHY, MICHAEL", "KIST, LUIZA WILGES", "BOGO, MAURÍCIO REIS", "WASIELESKY, WILSON", "SAHOO, SANGRAN", "NASCIMENTO, JEFFERSON PATRÍCIO", "FURTADO, CLASCÍDIA APARECIDA", "FATTORINI, DANIELE", "REGOLI, FRANCESCO", "MACHADO, KARINA", "WERHLI, ADRIANO V.", "MONSERRAT, JOSÉ MARÌA", "VENTURA-LIMA, JULIANE"],
+      "journal": "SCIENCE OF THE TOTAL ENVIRONMENT",
+      "volume": 716,
+      "pages": "136893",
+      "year": 2020,
+      "doi": "https://www.sciencedirect.com/science/article/abs/pii/S0048969720304034?via%3Dihub"
+    },
+    {
+      "title": "Long-chain fatty dihydropyridines: Docking calcium channel studies and antihypertensive activity",
+      "authors": ["SANTA-HELENA, EDUARDA", "CABRERA, DIEGO DA COSTA", "D'OCA, MARCELO G. MONTES", "SCAINI, JOÃO LUÍS RHEINGANTZ", "DE OLIVEIRA, MATHEUS WILLIAM BANDEIRA", "WERHLI, ADRIANO VELASQUE", "MACHADO, KARINA DOS SANTOS", "GONÇALVES, CARLA AMORIM NEVES", "NERY, LUIZ EDUARDO MAIA"],
+      "journal": "LIFE SCIENCES",
+      "volume": 259,
+      "pages": "118210",
+      "year": 2020,
+      "doi": "https://linkinghub.elsevier.com/retrieve/pii/S0024320520309620"
+    },
+    {
+      "title": "Development of Multiagent Simulator to Genetic Regulatory Networks",
+      "authors": ["AGOSTINHO, NILZAIR B.", "WERHLI, ADRIANO V.", "ADAMATTI, D. F."],
+      "journal": "18th International Conference on Practical Applications of Agents and Multi-Agent Systems",
+      "year": 2020,
+      "location": "L'Aquila / Italia",
+      "publisher": "Springer",
+      "volume": 1,
+      "pages": "1-6",
+      "link": "https://www.researchgate.net/publication/344274495_Development_of_a_Multiagent_Simulator_to_Genetic_Regulatory_Networks"
+    },
+    {
+      "title": "Systematic review for modeling GRN",
+      "authors": ["AGOSTINHO, NILZAIR B.", "WERHLI, ADRIANO WERHLI", "ADAMATTI, D. F."],
+      "journal": "17th International Conference on Distributed Computing and Artificial Intelligence",
+      "year": 2020,
+      "location": "L'Aquila / Italia",
+      "publisher": "Springer",
+      "volume": 1,
+      "pages": "1-10"
+    }
+  ]
+  

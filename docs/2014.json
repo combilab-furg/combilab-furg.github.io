@@ -1,0 +1,47 @@
+[
+  {
+    "title": "An Infrastructure to Mine Molecular Descriptors for Ligand Selection on Virtual Screening",
+    "authors": ["SEUS, VINICIUS ROSA", "PERAZZO, GIOVANNI XAVIER", "WINCK, ANA T.", "WERHLI, ADRIANO V.", "MACHADO, KARINA S."],
+    "journal": "Journal of Biomedicine and Biotechnology (Print)",
+    "volume": 2014,
+    "pages": "1-9",
+    "year": 2014,
+    "doi": "http://dx.doi.org/10.1155/2014/325959"
+  },
+  {
+    "title": "Estimation of Parameters of Mycobacterium tuberculosis Growth: A Multi-Agent-Based Simulation Approach",
+    "authors": ["Werlang, Pablo", "Fagundes, Michel Q.", "Adamatti, Diana Francisca", "Machado, Karina Santos", "von Groll, Andrea", "da Silva, Pedro E. A.", "Werhli, Adriano Velasque"],
+    "book": "Lecture Notes in Computer Science",
+    "publisher": "Springer International Publishing",
+    "year": 2014,
+    "pages": "599-610",
+    "doi": "https://link.springer.com/chapter/10.1007%2F978-3-319-12027-0_48"
+  },
+  {
+    "title": "Multi-Agent-Based Simulation of Mycobacterium Tuberculosis Growth",
+    "authors": ["Werlang, Pablo", "Fagundes, Michel Q.", "Adamatti, Diana F.", "MACHADO, KARINA S.", "von Groll, Andrea", "da Silva, Pedro E. A.", "Werhli, Adriano V."],
+    "book": "Lecture Notes in Computer Science",
+    "publisher": "Springer Berlin Heidelberg",
+    "year": 2014,
+    "pages": "131-142",
+    "doi": "https://link.springer.com/chapter/10.1007%2F978-3-642-54783-6_9"
+  },
+  {
+    "title": "Desenvolvimento de um jogo sério para modelagem, operação e manutenção de plantas industriais",
+    "authors": ["BARBAT, M. M.", "ADAMATTI, D. F.", "WERHLI, A. V."],
+    "journal": "Revista Junior de Iniciação Científica em Ciências Exatas e Engenharia",
+    "volume": 7,
+    "pages": "1-6",
+    "year": 2014,
+    "link": "http://repositorio.furg.br/handle/1/4755"
+  },
+  {
+    "title": "A Serious Game to teach modeling, operating and maintenance of industrial plants",
+    "authors": ["BARBAT, M. M.", "DUTRA JUNIOR, N. C. S.", "WERHLI, A. V.", "ADAMATTI, D. F."],
+    "journal": "International Journal of Computer and Information Technology",
+    "volume": 3,
+    "pages": "1-12",
+    "year": 2014,
+    "link": "http://www.repositorio.furg.br/handle/1/4756"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Context-based preprocessing of molecular docking data",
+    "authors": ["WINCK, ANA T", "MACHADO, KARINA S", "DE SOUZA, OSMAR", "Ruiz, Duncan D"],
+    "journal": "BMC Genomics",
+    "volume": 14,
+    "pages": "S6",
+    "year": 2013,
+    "link": "http://repositorio.furg.br/handle/1/4858"
+  },
+  {
+    "title": "Parallel Algorithm for the HP Protein Folding Problem",
+    "authors": ["SANTOS, M. M.", "GOULART, M. G.", "GELATTI, G. J.", "MACHADO, KARINA S.", "WERHLI, A. V.", "Mendizabal, O. M."],
+    "event": "2nd Workshop-School on Theoretical Computer Science",
+    "location": "Rio Grande",
+    "year": 2013,
+    "volume": 1,
+    "pages": "1",
+    "link": "https://www.researchgate.net/publication/271547149_Parallel_Algorithm_for_the_HP_Protein_Folding_Problem"
+  },
+  {
+    "title": "Multi-Agent-Based Simulation of Mycobacterium tuberculosis growth",
+    "authors": ["WERLANG, P.", "FAGUNDES, M. Q.", "ADAMATTI, D. F.", "MACHADO, K. S.", "GROLL, A. V.", "SILVA, P. E. A.", "WERHLI, A. V."],
+    "event": "14th International Workshop on Multi-Agent-Based Simulation",
+    "location": "Saint Paul - USA",
+    "year": 2013,
+    "pages": "1-10",
+    "link": "https://www.researchgate.net/publication/266720471_Multi-Agent-Based_Simulation_of_Mycobacterium_Tuberculosis_Growth"
+  },
+  {
+    "title": "Inference of Genetic Regulatory Networks Using an Estimation of Distribution Algorithm",
+    "authors": ["Salvá, Thyago", "Emmendorfer, Leonardo R.", "Werhli, Adriano V."],
+    "book": "Lecture Notes in Computer Science",
+    "publisher": "Springer International Publishing",
+    "volume": 8213,
+    "pages": "148-159",
+    "year": 2013,
+    "doi": "http://dx.doi.org/10.1007/978-3-319-02624-4_14"
+  }
+]

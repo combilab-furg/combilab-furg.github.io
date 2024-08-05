@@ -1,0 +1,108 @@
+[
+    {
+      "title": "A Framework for Virtual Screening",
+      "authors": ["SEUS, V. R.", "SILVA JR., L. V.", "GOMES, JORGE", "SILVA, P. E. A.", "Prates, N. S.", "ZANATTA, N.", "WERHLI, A. V.", "MACHADO, K. S."],
+      "conference": "ACM SAC 2016",
+      "location": "Pisa, Italy",
+      "proceeding": "Proceedings of the 31st Annual ACM Symposium on Applied Computing",
+      "publisher": "Association for computer machinery",
+      "volume": 1,
+      "pages": "31-36",
+      "year": 2016,
+      "doi": "https://dl.acm.org/doi/10.1145/2851613.2851618"
+    },
+    {
+      "title": "Predicting the Binding Properties of Single Walled Carbon Nanotubes (SWCNT) with ADP/ATP Mitochondrial Carrier using Molecular Docking, Chemoinformatics, and Nano-QSBR Perturbation Theory",
+      "authors": ["GONZALEZ-DURRUTHY, MICHEL", "WERHLI, ADRIANO WERHLI", "CORNETET, LUISA", "MACHADO, KARINA S", "GONZALEZ-DIAZ, HUMBERTO", "WASILIESKY JR, WILSON", "RUAS, CAROLINE P.", "GELESKY, MARCOS A.", "MONSERRAT, JOSE M."],
+      "journal": "RSC Advances: an international journal to further the chemical sciences",
+      "volume": 6,
+      "pages": "58680-58693",
+      "year": 2016,
+      "doi": "http://dx.doi.org/10.1039/c6ra08883j"
+    },
+    {
+      "title": "Using Bayesian Networks to Structure the OCC Emotions Model",
+      "authors": ["SILVA, F. N.", "Werhli, Adriano V.", "Adamatti, Diana Francisca"],
+      "journal": "JOURNAL OF INTELLIGENT COMPUTING",
+      "volume": 7,
+      "pages": "156",
+      "year": 2016,
+      "link": "https://www.dline.info/jic/fulltext/v7n4/jicv7n4_3.pdf"
+    },
+    {
+      "title": "Drug repurposing for tuberculosis",
+      "authors": ["PALOMINO, J. C.", "MACHADO, KARINA S.", "GROLL, A. V.", "SILVA, P. E. A.", "MARTIN, A."],
+      "editor": ["Michio Kuroso", "William Denny"],
+      "book": "Advances in Tuberculosis Medicinal Chemistry",
+      "publisher": "Future Science",
+      "volume": 1,
+      "pages": "21-32",
+      "year": 2016,
+      "doi": "https://www.futuremedicine.com/doi/10.4155/fseb2013.13.7"
+    },
+    {
+      "title": "A comparison of molecular dynamics simulations using GROMACS with GPU and CPU",
+      "authors": ["CAMARGO, A. D.", "WERHLI, ADRIANO V.", "MACHADO, KARINA S."],
+      "journal": "REVISTA DE INFORMÁTICA TEÓRICA E APLICADA: RITA",
+      "volume": 23,
+      "pages": "325-328",
+      "year": 2016,
+      "link": "https://www.researchgate.net/publication/303935844_A_comparison_of_molecular_dynamics_simulations_using_GROMACS_with_GPU_and_CPU"
+    },
+    {
+      "title": "Data Mining Applied to Molecular Docking Experiments",
+      "authors": ["Cornetet, L. R.", "GONZÁLEZ-DURRUTHY, MICHAEL", "MONSERRAT, JOSE M.", "WERHLI, ADRIANO V.", "MACHADO, KARINA S."],
+      "journal": "REVISTA DE INFORMÁTICA TEÓRICA E APLICADA: RITA",
+      "volume": 23,
+      "pages": "379-381",
+      "year": 2016
+    },
+    {
+      "title": "Identificação de Regiões Densas de Trajetórias Atômicas em Simulações de Dinâmica Molecular",
+      "authors": ["KRONBAUER, A.", "SCHMIDT, L. A.", "MACHADO, KARINA S.", "Winck, A. T."],
+      "conference": "Symposium on Knowledge Discovery, Mining and Learning (KDMiLe)",
+      "location": "Recife - PE",
+      "proceeding": "Symposium on Knowledge Discovery, Mining and Learning (KDMiLe)",
+      "volume": 1,
+      "pages": "1-8",
+      "year": 2016
+    },
+    {
+      "title": "Um estudo sobre ferramentas computacionais para a predição do impacto de mutações pontuais em proteínas",
+      "authors": ["CAMARGO, A. D.", "WERHLI, A. V.", "MACHADO, KARINA S."],
+      "conference": "7a. Conferência Sul em Modelagem Computacional MCSUL",
+      "location": "Rio Grande - RS",
+      "proceeding": "Anais do 7 MCSUL",
+      "volume": 1,
+      "pages": "783-792",
+      "year": 2016,
+      "link": "https://www.researchgate.net/publication/315444850_Um_estudo_sobre_ferramentas_computacionais_para_a_predicao_do_impacto_de_mutacoes_pontuais_em_proteinas"
+    },
+    {
+      "title": "A proposal to the manipulation of a set of protein structures from PDB",
+      "authors": ["SEUS, VINICIUS ROSA", "MACHADO, K. S.", "WERHLI, ADRIANO V."],
+      "journal": "Revista de Informática Teórica e Aplicada: RITA",
+      "volume": 23,
+      "pages": "330",
+      "year": 2016,
+      "link": "https://www.researchgate.net/publication/301450996_A_Proposal_Tool_for_Manipulation_of_a_Set_of_Protein_Structures_from_PDB"
+    },
+    {
+      "title": "Functional analysis of microRNA and transcription factor co-regulatory network in pathological cardiac hypertrophy",
+      "authors": ["Mendoza, M. R.", "WERHLI, ADRIANO V.", "PINTO, G. H.", "SILVELLO, D.", "COHEN, C. R.", "CLAUSELL, N. O.", "ROHDE, L. E. P.", "BIOLO, A."],
+      "journal": "Revista de Informática Teórica e Aplicada: RITA",
+      "volume": 23,
+      "pages": "356-359",
+      "year": 2016
+    },
+    {
+      "title": "Jogo Computacional no Dobramento de Proteínas: Descoberta de Conhecimento com o Auxílio da Inteligência Humana",
+      "authors": ["LUZ, R. M.", "Adamatti, D. F.", "Werhli, Adriano V."],
+      "journal": "REVISTA ELETRÔNICA ARGENTINA-BRASIL DE TECNOLOGIAS DA INFORMAÇÃO E DA COMUNICAÇÃO",
+      "volume": 1,
+      "pages": "1",
+      "year": 2016,
+      "link": "https://revistas.setrem.com.br/index.php/reabtic/article/view/159"
+    }
+  ]
+  

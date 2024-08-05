@@ -1,0 +1,57 @@
+[
+    {
+      "title": "A Computational Method to Propose Mutations in Enzymes Based on Structural Signature Variation (SSV)",
+      "authors": ["MARIANO, DIEGO", "SANTOS, LUCIANNA", "MACHADO, KARINA", "WERHLI, ADRIANO", "DE LIMA, LEONARDO", "DE MELO-MINARDI, RAQUEL"],
+      "journal": "INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES",
+      "volume": 20,
+      "pages": "333",
+      "year": 2019,
+      "doi": "http://dx.doi.org/10.3390/ijms20020333"
+    },
+    {
+      "title": "Molecular modelling and competitive inhibition of a Mycobacterium tuberculosis multidrug-resistance efflux pump",
+      "authors": ["SCAINI, JOÃO LUÍS RHEINGANTZ", "CAMARGO, ALEX DIAS", "SEUS, VINICIUS ROSA", "VON GROLL, ANDREA", "WERHLI, ADRIANO VELASQUE", "DA SILVA, PEDRO EDUARDO ALMEIDA", "MACHADO, KARINA DOS SANTOS"],
+      "journal": "JOURNAL OF MOLECULAR GRAPHICS & MODELLING",
+      "volume": 87,
+      "pages": "98-108",
+      "year": 2019,
+      "doi": "https://www.sciencedirect.com/science/article/abs/pii/S109332631830411X?via%3Dihub"
+    },
+    {
+      "title": "Silencing the OCT4-PG1 pseudogene reduces OCT-4 protein levels and changes characteristics of the multidrug resistance phenotype in chronic myeloid leukemia",
+      "authors": ["LETTNIN, ALINE PORTANTIOLO", "WAGNER, EDUARDO FELIPE", "CARRETT-DIAS, MICHELE", "DOS SANTOS MACHADO, KARINA", "WERHLI, ADRIANO", "CAÑEDO, ANDRÉS DELGADO", "TRINDADE, GILMA SANTOS", "DE SOUZA VOTTO, ANA PAULA"],
+      "journal": "MOLECULAR BIOLOGY REPORTS",
+      "volume": 46,
+      "pages": "1873-1884",
+      "year": 2019,
+      "doi": "http://dx.doi.org/10.1007/s11033-019-04639-4"
+    },
+    {
+      "title": "Computational MitoTarget-Scanning Based on Topological Vacancies of Single-Walled Carbon Nanotubes with Human Mitochondrial hVDAC1 Channel",
+      "authors": ["GONZALEZ DURRUTHY, MICHAEL", "MONSERRAT, JOSÉ M", "VIERA DE OLIVEIRA, PATRICIA", "FAGAN, SOLANGE BINOTTO", "WERHLI, ADRIANO V.", "MACHADO, KARINA", "MELO, ANDRÉ", "GONZÁLEZ-DÍAZ, HUMBERTO", "CONCU, RICCARDO", "DIAS SOEIRO CORDEIRO, MARIA NATÁLIA D.S."],
+      "journal": "CHEMICAL RESEARCH IN TOXICOLOGY",
+      "volume": 32,
+      "pages": "566-577",
+      "year": 2019,
+      "doi": "https://pubs.acs.org/doi/10.1021/acs.chemrestox.8b00266"
+    },
+    {
+      "title": "A comparison of classifiers for predicting the class color of fluorescent proteins",
+      "authors": ["DA SILVA, ROGER SÁ", "MARINS, LUIS FERNANDO", "ALMEIDA, DANIELA VOLCAN", "DOS SANTOS MACHADO, KARINA", "WERHLI, ADRIANO V."],
+      "journal": "COMPUTATIONAL BIOLOGY AND CHEMISTRY",
+      "volume": 83,
+      "pages": "107089",
+      "year": 2019,
+      "doi": "https://linkinghub.elsevier.com/retrieve/pii/S1476927119304712"
+    },
+    {
+      "title": "Systems biology approach identifies key regulators and the interplay between miRNAs and transcription factors for pathological cardiac hypertrophy",
+      "authors": ["RECAMONDE-MENDOZA, MARIANA", "Werhli, Adriano V.", "BIOLO, ANDREIA"],
+      "journal": "GENE",
+      "volume": 698,
+      "pages": "157-169",
+      "year": 2019,
+      "doi": "https://linkinghub.elsevier.com/retrieve/pii/S0378111919301908"
+    }
+  ]
+  

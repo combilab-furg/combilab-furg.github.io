@@ -1,0 +1,86 @@
+[
+    {
+      "title": "In vitro and in silico analysis of the efficiency of tetrahydropyridines as drug efflux inhibitors in Escherichia coli",
+      "authors": ["SILVA, LANDE", "CARRION, LILLIAN LUCAS", "VON GROLL, ANDREA", "COSTA, SOFIA SANTOS", "JUNQUEIRA, ELISABETE", "RAMOS, DANIELA FERNANDES", "CANTOS, JÉSSICA", "SEUS, VINICIUS ROSA", "COUTO, ISABEL", "FERNANDES, LIANA DA SILVA", "BONACORSO, HÉLIO GAUZE", "MARTINS, MARCOS ANTÔNIO PINTO", "ZANATTA, NILO", "VIVEIROS, MIGUEL", "MACHADO, KARINA S.", "ALMEIDA DA SILVA, PEDRO EDUARDO"],
+      "journal": "INTERNATIONAL JOURNAL OF ANTIMICROBIAL AGENTS",
+      "volume": 49,
+      "pages": "308-314",
+      "year": 2017,
+      "doi": "https://linkinghub.elsevier.com/retrieve/pii/S0924857917300262"
+    },
+    {
+      "title": "Characterization of glucose-tolerant β-glucosidases used in biofuel production under the bioinformatics perspective: a systematic review",
+      "authors": ["MARIANO, D.C.B.", "LEITE, C.", "SANTOS, L.H.S.", "MARINS, L.F.", "MACHADO, K.S.", "WERHLI, A.V.", "LIMA, L.H.F.", "DE MELO-MINARDI, R.C."],
+      "journal": "GENETICS AND MOLECULAR RESEARCH",
+      "volume": 16,
+      "pages": "1",
+      "year": 2017,
+      "doi": "https://pubmed.ncbi.nlm.nih.gov/28829906/"
+    },
+    {
+      "title": "Decrypting Strong and Weak Single-Walled Carbon Nanotubes Interactions with Mitochondrial Voltage-Dependent Anion Channels Using Molecular Docking and Perturbation Theory",
+      "authors": ["GONZÁLEZ-DURRUTHY, MICHAEL", "WERHLI, ADRIANO V.", "SEUS, VINICIUS", "MACHADO, KARINA S.", "PAZOS, ALEJANDRO", "MUNTEANU, CRISTIAN R.", "GONZÁLEZ-DÍAZ, HUMBERTO", "MONSERRAT, JOSÉ M."],
+      "journal": "Scientific Reports",
+      "volume": 7,
+      "pages": "1",
+      "year": 2017,
+      "doi": "http://dx.doi.org/10.1038/s41598-017-13691-8"
+    },
+    {
+      "title": "Cytoprotection of lipoic acid against toxicity induced by saxitoxin in hippocampal cell line HT-22 through in silico modeling and in vitro assays",
+      "authors": ["RAMOS, PATRÍCIA", "SCHMITZ, MARCOS", "GAMA, SIBELE", "PORTANTIOLO, ALINE", "DURRUTHY, MICHAEL GONZALEZ", "DE SOUZA VOTTO, ANA PAULA", "CORNETET, LUISA RODRIGUES", "DOS SANTOS MACHADO, KARINA", "WEHRLI, ADRIANO", "TONEL, MARIANA ZANCAN", "FAGAN, SOLANGE BINOTTO", "YUNES, JOÃO SARKIS", "MONSERRAT, JOSÉ MARIA"],
+      "journal": "TOXICOLOGY",
+      "volume": 393,
+      "pages": "171-184",
+      "year": 2017,
+      "doi": "https://www.sciencedirect.com/science/article/abs/pii/S0300483X1730327X?via%3Dihub"
+    },
+    {
+      "title": "Inference of Regulatory Networks with MCMC sampler guided by Mutual Information",
+      "authors": ["BARRETO, N. A.", "MACHADO, KARINA S.", "WERHLI, ADRIANO V."],
+      "event": "ACM SAC 2017",
+      "location": "Marrakech, Morocco",
+      "year": 2017,
+      "volume": 1,
+      "pages": "18-22",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3019612.3022189"
+    },
+    {
+      "title": "A Study on the Relationship between Internal and External Validity Indices Applied to Partitioning and Density-based Clustering Algorithms",
+      "authors": ["TOMASINI, C.", "Borges, E.N.", "Emmendorfer, L.", "MACHADO, KARINA S."],
+      "event": "International Conference on Enterprise Information Systems",
+      "location": "Porto, Portugal",
+      "year": 2017,
+      "volume": 1,
+      "pages": "89-98",
+      "link": "https://www.scitepress.org/PublicationsDetail.aspx?ID=wM3tLfLZsg8=&t=1"
+    },
+    {
+      "title": "Using Probability Distributions in Parameters of Variables at Agent-Based Simulations",
+      "authors": ["Fonseca de Moraes, Marcilene", "Adamatti, Diana Francisca", "Oliveira de Borba, Albano", "Werhli, Adriano Velasque", "von Groll, Andrea"],
+      "book": "Advances in Computational Intelligence and Robotics",
+      "publisher": "IGI Global",
+      "year": 2017,
+      "pages": "333-355",
+      "doi": "http://dx.doi.org/10.4018/978-1-5225-1756-6.ch014"
+    },
+    {
+      "title": "Modelo de dobramento de proteína em jogo computacional",
+      "authors": ["DA LUZ, RENAN MARTINEZ", "Adamatti, Diana Francisca", "Werhli, Adriano Velasque"],
+      "journal": "REVISTA BRASILEIRA DE COMPUTAÇÃO APLICADA",
+      "volume": 9,
+      "pages": "42",
+      "year": 2017,
+      "doi": "http://seer.upf.br/index.php/rbca/article/view/6692"
+    },
+    {
+      "title": "Aplicação de Teste de Hipóteses em Dados Provenientes de Simulação Baseada em Agentes: Um Estudo de Caso Para a Curva de Crescimento do Mycobacterium Tuberculosis",
+      "authors": ["MORAES, M. F.", "BORBA, A. O.", "MATTOS, V. L. D.", "WERHLI, ADRIANO V", "Adamatti, D. F."],
+      "journal": "REVISTA DE ENGENHARIA E TECNOLOGIA",
+      "volume": 9,
+      "pages": "133",
+      "year": 2017,
+      "link": "https://revistas2.uepg.br/index.php/ret/article/view/11272"
+    }
+  ]
+  

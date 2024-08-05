@@ -1,7 +1,0 @@
-theme: jekyll-theme-architect
-title: Combi-Lab
-description: [Computational Biology Laboratory - FURG]
-show_downloads: false
-# Include custom CSS
-include:
-  - assets/css/custom.css

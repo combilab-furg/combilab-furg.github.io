@@ -1,0 +1,38 @@
+.main-content{
+    padding:0;
+}
+.aside-content{
+    background: #002341;
+    color: #FFFF;
+    padding: 8px;
+    border-radius: 8px;
+    height: fit-content;
+    align-items: center;
+    justify-content: center;
+}
+
+.aside-content>h4{
+    margin-top: 4px;
+    padding: 4px;
+    font-weight: 500;
+}
+.aside-content>p{
+    margin-inline: 10px;
+    padding: 8px;
+    text-align: justify;
+    font-weight: 100;
+}
+.img-furg{
+    width: 100%;
+    height: auto;
+    padding-inline: 12px;
+}
+
+.btn_lattes{
+    padding: 1;
+}
+
+.card-text{
+    font-weight: 200;
+    color: #002341;
+}

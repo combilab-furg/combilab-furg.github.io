@@ -1,0 +1,104 @@
+body {
+    margin-top: 80px; /* Espaço para o header */
+    margin-bottom: 60px; /* Espaço para o footer */
+    width: 100%;
+    background: #ffffff;
+  }
+.inter {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.nv_bg{
+    border-bottom-left-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+    background: rgb(255, 255, 255);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5.9px);
+    -webkit-backdrop-filter: blur(5.9px);
+    
+}
+.nav-link-custom{
+    font-weight: 600;
+    color: #002341;
+}
+.header{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 80px;
+    background:#002341;
+    color: #ffffff;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    /* background-color: #f8f9fa; */
+    text-align: center;
+    padding: 10px 0;
+    /* From https://css.glass */
+    background: rgba(166, 166, 166, 0.66);
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5.1px);
+    -webkit-backdrop-filter: blur(5.1px);
+    border: 1px solid rgba(166, 166, 166, 0.38);
+}
+.footer-c3-img{
+    width: 60px;
+    height: 30px;
+}
+
+
+
+.main-logo-text{
+    font-weight: 200;
+}
+
+.button-card{
+    background: #002341;
+    border-radius: 4px;
+    color: #FFFF;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+.button-card:hover{
+    background: rgba(0, 37, 62, 0.6);
+    color: #FFFF;
+}
+.zindex1000 {
+    z-index: 1050; 
+}
+.dropdown-menu{
+    width: 100px;
+    background: rgb(255, 255, 255);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5.9px);
+    -webkit-backdrop-filter: blur(5.9px);
+}
+
+.content {
+    z-index: 0; /* Conteúdo terá z-index mais baixo que o dropdown */
+}
+.card-title{
+    font-weight: 500;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.card-publi{
+    font-size: 0.9rem;
+    margin-bottom: 6px;
+    background: #FFFF;
+}
+.card-glass{
+    border: 2px solid #002341;
+    border-radius: 8px;
+}

@@ -1,5 +1,5 @@
 body {
-    margin-top: 80px; /* Espaço para o header */
+    margin-top: 90px; /* Espaço para o header */
     margin-bottom: 60px; /* Espaço para o footer */
     width: 100%;
     background: #ffffff;
@@ -29,9 +29,8 @@ body {
     left: 0;
     top: 0;
     width: 100%;
-    height: 80px;
+    height: 90px;
     background:#002341;
-    color: #ffffff;
 }
 
 .footer {
@@ -56,12 +55,6 @@ body {
     height: 30px;
 }
 
-
-
-.main-logo-text{
-    font-weight: 200;
-}
-
 .button-card{
     background: #002341;
     border-radius: 4px;
@@ -82,6 +75,7 @@ body {
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(5.9px);
     -webkit-backdrop-filter: blur(5.9px);
+
 }
 
 .content {
@@ -101,4 +95,8 @@ body {
 .card-glass{
     border: 2px solid #002341;
     border-radius: 8px;
+}
+.students-card-tittle{
+    text-justify: auto;
+    text-align: center;
 }

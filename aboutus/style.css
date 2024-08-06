@@ -36,3 +36,20 @@
     font-weight: 200;
     color: #002341;
 }
+.student-text{
+    font-weight: 200;
+    font-size: 0.8rem;
+}
+
+
+.subtittle-text{
+    margin-top: 80px;
+
+}
+.card-students-photo{
+    margin-top: 16px;
+    width: 140px;
+    height: 180px;
+    object-fit: cover;
+    place-self: center;
+}

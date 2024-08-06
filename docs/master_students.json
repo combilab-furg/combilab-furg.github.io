@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Abdirasak M. Osman",
+        "major": "Computer engineering",
+        "email": "Abdirasakm0@gmail.com",
+        "photo": "naaji.jpg",
+        "lattes":""
+    },
+    {
+        "name": "Adriano T. da Roza",
+        "major": "Health Sciences",
+        "email": "adrianoterraa@gmail.com",
+        "photo": "adriano_terra.jpg",
+        "lattes":""
+    },
+    {
+        "name": "Fabiano Mendonça",
+        "major": "Computer engineering",
+        "email": "mendonca.biano@gmail.com",
+        "photo": "fabiano_mendonca.jpg",
+        "lattes":"http://lattes.cnpq.br/7855234849981782"
+    },   
+    {
+        "name": "Fabrício Lopes",
+        "major": "Computer engineering",
+        "email": "fabriciolopesrgd@gmail.com",
+        "photo": "fabricio_lopes.jpg",
+        "lattes":"http://lattes.cnpq.br/4526867733046399"
+    },    
+    {
+        "name": "Jordan Zitzke",
+        "major": "Computer engineering",
+        "email": "jordan.zitzke.rs@gmail.com",
+        "photo": "jordan_zitzke.jpg",
+        "lattes":"http://lattes.cnpq.br/2996853821916867"
+    },
+    {
+        "name": "Lucas Veiga",
+        "major": "Computer engineering",
+        "email": "lucasveiga182@gmail.com",
+        "photo": "lucas_veiga.jpg",
+        "lattes":"http://lattes.cnpq.br/2045633478471323"
+    },
+    {
+        "name": "Yago M. Paes",
+        "major": "Computer engineering",
+        "email": "mendonca.biano@gmail.com",
+        "photo": "yago_paes.jpg",
+        "lattes":""
+    },
+    {
+        "name": "Veridiana P. Richter",
+        "major": "Health Sciences",
+        "email": "veri.piva@gmail.com",
+        "photo": "veri.jpg",
+        "lattes":"http://lattes.cnpq.br/3580100630570125"
+    }
+
+
+]

@@ -1,7 +1,9 @@
 const studentCardsContainer = document.getElementById('student-cards');
+const gradStudentCardsContainer = document.getElementById('grad-student-cards');
+const docStudentCardsContainer = document.getElementById('doc-student-cards');
 
 
-function loadStudents(students){
+function loadStudents(students, studentsCard){
     students.forEach(student => {
         const card = document.createElement('div');
         card.className = 'col-md-4 mb-4';
@@ -19,18 +21,33 @@ function loadStudents(students){
                 </div>
             </div>
         `;
-        studentCardsContainer.appendChild(card);
+        studentsCard.appendChild(card);
     });
 }
 
 async function getStudents() {
     try {
-        const response = await fetch(`../docs/master_students.json`);
-        const students = await response.json();
-        loadStudents(students);
+        const response1 = await fetch(`../docs/doc_students.json`);
+        const students1 = await response1.json();
+        loadStudents(students1, docStudentCardsContainer);
+    } catch (error) {
+        console.error('Error loading students:', error);
+    }
+    try {
+        const response2 = await fetch(`../docs/master_students.json`);
+        const students2 = await response2.json();
+        loadStudents(students2, studentCardsContainer);
         
     } catch (error) {
         console.error('Error loading publications:', error);
+    }
+    try {
+        const response3 = await fetch(`../docs/grad_students.json`);
+        const students3 = await response3.json();
+        loadStudents(students3, gradStudentCardsContainer);
+        
+    } catch (error) {
+        console.error('Error loading students:', error);
     }
 }
 

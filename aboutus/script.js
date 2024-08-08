@@ -13,7 +13,7 @@ function loadStudents(students, studentsCard){
                 <div class="card-body">
                     <h6 class="card-title students-card-tittle" style="place-self: center;">${student.name}</h6>
                     <p class="card-text student-text">
-                        <strong>Major:</strong> ${student.major}<br>
+                        ${student.major ? `<strong>Major:</strong> ${student.major}` : `<strong>Course:</strong> ${student.course}`} <br>
                         <strong>Email:</strong> <a href="mailto:${student.email}">${student.email}</a>
                     </p>
                     <a href="mailto:${student.email}" class="btn button-card btn_lattes">Contact</a>

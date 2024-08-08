@@ -5,5 +5,12 @@
         "email": "eduardaalvesamaral@gmail.com",
         "photo": "eduarda_amaral.jpg",
         "lattes":"http://lattes.cnpq.br/3157145724539158"
+    },
+    {
+        "name": "Stefany Brier",
+        "course": "Automation Engineering",
+        "email": "sbcfurg@gmail.com",
+        "photo": "stefany_brier.jpg",
+        "lattes":"http://lattes.cnpq.br/3436923081987126"
     }
 ]
